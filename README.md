@@ -15,6 +15,6 @@ Full-stack developer in Tel Aviv. Founder of [Kashuv](https://kashuv.ai), AI voi
 
 ## Elsewhere
 
-[roychemo.co.il](https://roychemo.co.il) · [kashuv.ai](https://kashuv.ai)
+[All the tools and their prices](https://tools.kashuv.ai/) · [roychemo.co.il](https://roychemo.co.il) · [kashuv.ai](https://kashuv.ai)
 
 If a tool saves you time, you can [sponsor the work](https://github.com/sponsors/roych28).
